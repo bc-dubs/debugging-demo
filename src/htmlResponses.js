@@ -17,4 +17,5 @@ const getCSS = (request, response) => {
 
 module.exports = {
   getIndex,
+  getCSS // finding error in stack trace
 };
